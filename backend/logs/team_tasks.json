@@ -9,7 +9,7 @@
   {
     "task": "Design landing page mockups",
     "assigned_to": "Sarah Williams",
-    "email": "sarah@hackatwin.com", 
+    "email": "sarah@hackatwin.com",
     "status": "in_progress",
     "timestamp": "2025-08-10T10:15:00.000000"
   },
@@ -19,5 +19,19 @@
     "email": "mike@hackatwin.com",
     "status": "pending",
     "timestamp": "2025-08-10T11:00:00.000000"
+  },
+  {
+    "team": [
+      {
+        "name": "ansh",
+        "role": "ai",
+        "contact": "rgrg"
+      }
+    ],
+    "tasks": [
+      "ttrytr"
+    ],
+    "assignments": "Sure, I can help with that! Here are some possible task assignments for the tasks \"ttrytr\":\n\n1. ansh: ttrytr (for handling AI-related aspects)\n\nPlease note that this is just a suggestion and the actual team member assigned to each task may vary based on various factors such as availability, expertise, and project requirements.",
+    "timestamp": "2025-08-10T17:52:41.982100"
   }
 ]
