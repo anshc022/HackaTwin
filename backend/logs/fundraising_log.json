@@ -1,0 +1,26 @@
+[
+  {
+    "company": "TechCorp Inc",
+    "contact_email": "partnerships@techcorp.com",
+    "amount_requested": 5000,
+    "status": "sent",
+    "proposal_type": "gold_sponsor",
+    "timestamp": "2025-08-10T13:15:00.000000"
+  },
+  {
+    "company": "StartupHub",
+    "contact_email": "sponsors@startuphub.com",
+    "amount_requested": 2500,
+    "status": "confirmed",
+    "proposal_type": "silver_sponsor",
+    "timestamp": "2025-08-10T11:30:00.000000"
+  },
+  {
+    "company": "Innovation Labs",
+    "contact_email": "events@innovationlabs.com",
+    "amount_requested": 1000,
+    "status": "pending",
+    "proposal_type": "bronze_sponsor",
+    "timestamp": "2025-08-10T15:45:00.000000"
+  }
+]

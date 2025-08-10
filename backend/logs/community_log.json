@@ -1,0 +1,23 @@
+[
+  {
+    "member_name": "Alice Thompson",
+    "email": "alice@developer.com",
+    "message_type": "onboarding",
+    "status": "sent",
+    "timestamp": "2025-08-10T08:00:00.000000"
+  },
+  {
+    "member_name": "Bob Martinez",
+    "email": "bob@coder.net",
+    "message_type": "followup",
+    "status": "delivered",
+    "timestamp": "2025-08-10T12:30:00.000000"
+  },
+  {
+    "member_name": "Carol Zhang",
+    "email": "carol@techie.org",
+    "message_type": "engagement",
+    "status": "opened",
+    "timestamp": "2025-08-10T16:15:00.000000"
+  }
+]

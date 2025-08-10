@@ -1,0 +1,25 @@
+[
+  {
+    "type": "agenda",
+    "event_name": "AI Innovation Hackathon 2025",
+    "days": 2,
+    "tracks": [
+      "AI/ML",
+      "Web Development",
+      "Mobile Apps",
+      "Blockchain"
+    ],
+    "content": "Sure! Here is the detailed 2-day hackathon agenda for \"AI Innovation Hackathon 2025\" in JSON format:\n\n```\n{\n    \"Day 1 (Monday)\": {\n        \"Opening ceremony\": [\n            {\"time\": \"9:00 AM\", \"topic\": \"Welcome and introductions\"},\n            {\"time\": \"9:30 AM\", \"topic\": \"Overview of hackathon goals and objectives\"}\n        ],\n        \"Session 1 - AI/ML Track\": [\n            {\"time\": \"10:00 AM\", \"topic\": \"Introduction to Machine Learning Concepts\"},\n            {\"time\": \"10:45 AM\", \"topic\": \"Hands-on workshop on using Python for ML algorithms\"},\n            {\"time\": \"12:00 PM\", \"topic\": \"Lunch break\"}\n        ],\n        \"Session 2 - Web Development Track\": [\n            {\"time\": \"1:00 PM\", \"topic\": \"Introduction to Frontend and Backend development concepts\"},\n            {\"time\": \"1:45 PM\", \"topic\": \"Hands-on workshop on using React for building web applications\"},\n            {\"time\": \"3:00 PM\", \"topic\": \"Lunch break\"}\n        ],\n        \"Session 3 - Mobile Apps Track\": [\n            {\"time\": \"4:00 PM\", \"topic\": \"Introduction to mobile development and UI/UX design concepts\"},\n            {\"time\": \"4:45 PM\", \"topic\": \"Hands-on workshop on using Flutter for building mobile apps\"},\n            {\"time\": \"6:00 PM\", \"topic\": \"Lunch break\"}\n        ],\n        \"Session 4 - Blockchain Track\": [\n            {\"time\": \"7:00 PM\", \"topic\": \"Introduction to blockchain and smart contracts concepts\"},\n            {\"time\": \"8:30 PM\", \"topic\": \"Hands-on workshop on using Ethereum for building blockchain-based applications\"},\n            {\"time\": \"10:00 PM\", \"topic\": \"Closing ceremony\"}\n        ],\n        \"Mentor check-ins\": [\n            {\"time\": \"9:00 AM\", \"mentor\": \"Professor Smith, AI research expert\"},\n            {\"time\": \"12:30 PM\", \"mentor\": \"Dr. Johnson, blockchain technology pioneer\"}\n        ]\n    },\n    \"Day 2 (Tuesday)\": {\n        \"Session 5 - AI/ML Track\": [\n            {\"time\": \"9:00 AM\", \"topic\": \"Advanced ML techniques for real-world applications\"},\n            {\"time\": \"10:45 AM\", \"topic\": \"Case study on a successful ML project in healthcare industry\"},\n            {\"time\": \"2:00 PM\", \"topic\": \"Lunch break\"}\n        ],\n        \"Session 6 - Web Development Track\": [\n            {\"time\": \"3:00 PM\", \"topic\": \"Advanced web development technologies and frameworks\"},\n            {\"time\": \"4:45 PM\", \"topic\": \"Case study on a high-performance mobile app built with Flutter\"},\n            {\"time\": \"7:00 PM\", \"topic\": \"Closing ceremony\"}\n        ],\n        \"Session 7 - Mobile Apps Track\": [\n            {\"time\": \"8:30 AM\", \"topic\": \"Advanced mobile development techniques for Android and iOS platforms\"},\n            {\"time\": \"10:00 AM\", \"topic\": \"Case study on a successful mobile app in education industry\"},\n            {\"time\": \"12:00 PM\", \"topic\": \"Lunch break\"}\n        ],\n        \"Session 8 - Blockchain Track\": [\n            {\"time\": \"1:30 PM\", \"topic\": \"Advanced blockchain development and smart contract building techniques\"},\n            {\"time\": \"3:00 PM\", \"topic\": \"Case study on a successful blockchain-based supply chain solution\"},\n            {\"time\": \"5:00 PM\", \"topic\": \"Closing ceremony\"}\n        ],\n        \"Mentor check-ins\": [\n            {\"time\": \"9:00 AM\", \"mentor\": \"Professor Smith, AI research expert\"},\n            {\"time\": \"12:30 PM\", \"mentor\": \"Dr. Johnson, blockchain technology pioneer\"}\n        ]\n    }\n}\n```\n\nThis agenda includes five sessions per day on different tracks (AI/ML, Web Development, Mobile Apps, Blockchain) with a mentor check-in session in between each track to provide additional support and feedback. The schedule also features lunch breaks for all participants, ensuring that everyone has ample time to take breaks during the long days of hackathon.",
+    "timestamp": "2025-08-10T16:06:00.925566"
+  },
+  {
+    "type": "agenda",
+    "event_name": "tht",
+    "days": 1,
+    "tracks": [
+      "t"
+    ],
+    "content": "Here is the detailed 1-day hackathon agenda for \"tht\":\n\n|Day|\n|---|\n|Monday|\n|---|\n|8:00 AM-9:30 AM|\n|Opening ceremony and team formation|\n|---|\n|9:30 AM-12:00 PM|\n|Track-specific sessions on the first day|\n   - 10:00 AM-10:45 AM|\n     |Session title: \"Thematic Day: Day 1 Overview\"\n     |\n     |Mentor session: \"Thematic Day: Day 1 Mentor Session\"|\n   - 10:45 AM-11:30 AM|\n     |Session on the first day|",
+    "timestamp": "2025-08-10T16:47:29.518551"
+  }
+]

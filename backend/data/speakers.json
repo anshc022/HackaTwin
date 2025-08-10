@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lisa Chen",
+    "email": "lisa.chen@google.com",
+    "topic": "Future of AI",
+    "company": "Google",
+    "bio": "Senior AI Research Scientist"
+  },
+  {
+    "name": "David Rodriguez",
+    "email": "david.rodriguez@microsoft.com",
+    "topic": "Cloud Computing Trends",
+    "company": "Microsoft",
+    "bio": "Principal Cloud Architect"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dr. Sarah Wilson",
+    "email": "sarah.wilson@techcorp.com",
+    "expertise": "AI/ML",
+    "company": "TechCorp",
+    "experience": "10+ years"
+  },
+  {
+    "name": "Michael Brown",
+    "email": "michael.brown@startup.io",
+    "expertise": "Blockchain",
+    "company": "StartupIO",
+    "experience": "5+ years"
+  }
+]

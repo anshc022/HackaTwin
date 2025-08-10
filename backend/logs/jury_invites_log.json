@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Dr. Emily Rodriguez",
+    "email": "emily.rodriguez@techcorp.com",
+    "role": "judge",
+    "expertise": "AI/ML",
+    "status": "sent",
+    "timestamp": "2025-08-10T08:45:00.000000"
+  },
+  {
+    "name": "James Park",
+    "email": "james.park@startup.io",
+    "role": "speaker",
+    "topic": "Startup Scaling",
+    "status": "confirmed",
+    "timestamp": "2025-08-10T09:20:00.000000"
+  },
+  {
+    "name": "Prof. Maria Santos",
+    "email": "maria.santos@university.edu",
+    "role": "judge",
+    "expertise": "Blockchain",
+    "status": "pending",
+    "timestamp": "2025-08-10T10:30:00.000000"
+  },
+  {
+    "name": "Test Judge",
+    "email": "test@example.com",
+    "role": "judge",
+    "expertise": "AI",
+    "status": "success",
+    "timestamp": "2025-08-10T16:37:54.959782"
+  },
+  {
+    "name": "etet",
+    "email": "mehakrahi0@gmail.com",
+    "role": "judge",
+    "expertise": "ete",
+    "status": "success",
+    "timestamp": "2025-08-10T16:41:39.115596"
+  },
+  {
+    "name": "tet",
+    "email": "mehakrahi0@gmail.com",
+    "role": "speaker",
+    "topic": "tet",
+    "status": "success",
+    "timestamp": "2025-08-10T16:41:53.958977"
+  }
+]
